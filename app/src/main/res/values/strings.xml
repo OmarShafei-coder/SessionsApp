@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kids dictionary</string>
+
+    <string name="numbers">Numbers</string>
+    <string name="phrases">Phrases</string>
+    <string name="family">Family</string>
+    <string name="colors">Colors</string>
+
+
+</resources>
